@@ -11,6 +11,7 @@ namespace _1025feladat
         static void Main(string[] args)
         {
             string azonosito;
+            int szulsorszam;
 
             do
             {
@@ -32,6 +33,9 @@ namespace _1025feladat
 
             } while(azonosito.Length != 10);
 
+            szulsorszam = azonosito[7];
+
+            Console.Write("A személy születési sorszáma: "+szulsorszam);
             Console.ReadKey();
 
         }
