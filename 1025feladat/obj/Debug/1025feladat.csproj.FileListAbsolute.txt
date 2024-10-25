@@ -1,0 +1,7 @@
+C:\Users\siposz\Gitwork\1025feladat\1025feladat\bin\Debug\1025feladat.exe.config
+C:\Users\siposz\Gitwork\1025feladat\1025feladat\bin\Debug\1025feladat.exe
+C:\Users\siposz\Gitwork\1025feladat\1025feladat\bin\Debug\1025feladat.pdb
+C:\Users\siposz\Gitwork\1025feladat\1025feladat\obj\Debug\1025feladat.csproj.AssemblyReference.cache
+C:\Users\siposz\Gitwork\1025feladat\1025feladat\obj\Debug\1025feladat.csproj.CoreCompileInputs.cache
+C:\Users\siposz\Gitwork\1025feladat\1025feladat\obj\Debug\1025feladat.exe
+C:\Users\siposz\Gitwork\1025feladat\1025feladat\obj\Debug\1025feladat.pdb
